@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+    color: blueviolet;
+}
+
+h2 {
+    font-weight: bold;
+    background-color: aquamarine;
+}
+
+.center {
+    text-align: center;
+    list-style-position: inside;
+    list-style-type: circle;
+}
